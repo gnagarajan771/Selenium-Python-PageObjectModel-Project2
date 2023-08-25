@@ -1,7 +1,7 @@
 # gui_project_at15_orange_hrm2
-This is a Project Folder for "This is a Project Folder for "AT15 Project 2"
+This is a Project Folder for "AT15 Project 2"
 
-There are Folder:-
+These are Folder:-
 
 1.)org_hrm_data_source # consists of the test data i.e. username, password and other details.
 
