@@ -1,5 +1,4 @@
-# gui_project_at15_orange_hrm2
-This is a Project Folder for "AT15 Project 2"
+This is a Project Folder for "AT15 Project 2 -- Page Object Model(POM)/Python Unittest Framework"
 
 These are Folder:-
 
