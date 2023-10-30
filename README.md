@@ -1,6 +1,6 @@
 This is a Project Folder for "AT15 Project 2 -- Page Object Model(POM)/Selenium-Python Unittest Framework"
 
-These are Folder:-
+Please see below for a brief description of the project folders:-
 
 1.)org_hrm_data_source # consists of the test data i.e. username, password and other details.
 
@@ -10,6 +10,6 @@ These are Folder:-
 
 4.)pytest_screenshots # consists of the screenshots of the test
 
-5.)test # consists of the test related to the modules i.e. Login, PIM, Admin and so on.
+5.)test # consists of the python tests related to the modules i.e. Login, PIM, Admin and so on.
 
 6.)utilities # consists of some helper functions to support the tests.
