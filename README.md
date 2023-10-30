@@ -1,4 +1,4 @@
-This is a Project Folder for "AT15 Project 2 -- Page Object Model(POM)/Python Unittest Framework"
+This is a Project Folder for "AT15 Project 2 -- Page Object Model(POM)/Selenium-Python Unittest Framework"
 
 These are Folder:-
 
